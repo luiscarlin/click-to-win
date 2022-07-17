@@ -5,7 +5,7 @@ import {useState} from 'react'
 import shuffle from 'lodash/shuffle'
 
 
-const CHALLENGES = ["flip a bottle on the arm of the couch", "five bottle flips in a row", "flip a cap", "flip a bottle on the floor", "ping pong shot into a cup", "charge a balloon and bend water", "charge a balloon and roll an empty can"]
+const CHALLENGES = ["flip a bottle on the arm of the couch", "five bottle flips in a row", "flip a bottle cap", "flip a bottle on the floor", "ping pong shot into a cup", "roll a 4 with a die", "roll a 6 with a die"]
 
 export default function Home() {
 
